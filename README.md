@@ -21,6 +21,7 @@ These prompts are used for bulk-prompting Stable Diffusion concepts / models tra
 * an abstracct landscape
 * color without form
 * shapes without meaning
+* freedom from oneself 
 
 ## Daniel Lopatin
 * woe the transgression
