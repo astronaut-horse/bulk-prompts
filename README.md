@@ -6,6 +6,112 @@ These prompts are used for bulk-prompting Stable Diffusion concepts / models tra
 * unknowable symbols
 * a tired army marching past a window
 * distant vessels
+* a astronaut riding a horse
+* a horse riding an astronaut
+* an astronaut
+* a horse
+* an alien
+* a rock
+* a stone
+* rocks
+* stones
+* the sea
+* abstract symbols
+* abstract geometric forms
+* an abstracct landscape
+* color without form
+* shapes without meaning
+
+## Daniel Lopatin
+* woe the transgression
+* behind the bank
+* eyeballs
+* betrayed in the octagon
+* parallel minds
+* a pact between strangers
+* when I get back from new york
+* love is the answer
+* fake patois
+* actual jewels
+* ships without meaning
+* terminator lake
+* transmat memories
+* laser to laser
+* wandering wires
+* computer vision
+* format & journey north
+* zones without people
+* learning to control myself
+* disconnecting entirely
+* emil cioran
+* hyperdawn
+* russian mind
+* months
+* physical memory
+* grief and repetition
+* russian mind
+* actual air
+* immanence
+* nil admirari
+* describing bodies
+* stress waves
+* returnal
+* pelham island road
+* where does time go
+* replica
+* andro
+* power of persuasion
+* sleep dealer
+* remember
+* replica
+* nassau
+* submersible
+* r plus seven
+* boring angel
+* americans
+* inside world
+* zebra
+* along
+* problem areas
+* cryo
+* still life
+* garden of delete
+* intro
+* ezra
+* sticky drama
+* mutant standard
+* child of rage
+* animals
+* I bite through it
+* freaky eyes
+* lift
+* no good
+* chrome country
+* palace of abominations
+* age of
+* babylon
+* manifold
+* the station
+* toys
+* black snow
+* myriad industries
+* warning
+* we'll take it
+* same
+* raycats
+* still stuff that doesn't happen
+* last known image of a song
+* magic
+* cross talk
+* long road home
+* I don't love me anymore
+* the whether channel
+* no nightmares
+* tales from the trash stratum
+* answering machine
+* imago
+* lost but never alone
+* shifting
 
 ## Three Body Problem
 * a condensed vision of modern history
