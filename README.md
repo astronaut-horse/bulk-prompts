@@ -1,4 +1,4 @@
-# Random Prompts
+# Random Bulk Prompts
 
 These prompts are used for bulk-prompting Stable Diffusion concepts / models trained on artworks and images chosen by visual artists. http://www.astronaut.horse 
 
