@@ -23,6 +23,14 @@ These prompts are used for bulk-prompting Stable Diffusion concepts / models tra
 * shapes without meaning
 * freedom from oneself 
 
+## Left Hand of Darkness
+* from another planet
+* long clean yellow teeth
+* the winter doors
+* a bitter climate 
+* an inner city
+* a walled wilderness
+
 ## Daniel Lopatin
 * woe the transgression
 * behind the bank
