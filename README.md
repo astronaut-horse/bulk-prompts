@@ -30,6 +30,11 @@ These prompts are used for bulk-prompting Stable Diffusion concepts / models tra
 * a bitter climate 
 * an inner city
 * a walled wilderness
+* alone with a stranger
+* inside the walls of a dark palace
+* a strange snow-changed city
+* in the heart of the Ice Age of an alien world
+
 
 ## Daniel Lopatin
 * woe the transgression
