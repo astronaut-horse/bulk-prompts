@@ -18,7 +18,7 @@ These prompts are used for bulk-prompting Stable Diffusion concepts / models tra
 * the sea
 * abstract symbols
 * abstract geometric forms
-* an abstracct landscape
+* an abstract landscape
 * color without form
 * shapes without meaning
 * freedom from oneself 
