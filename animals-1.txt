@@ -136,7 +136,8 @@ echidna
 rainbow lorikeet
 numbat
 kookaburra
-saltwater crocodilegreat white shark
+saltwater crocodile
+great white shark
 dolphin
 orca
 blue whale
